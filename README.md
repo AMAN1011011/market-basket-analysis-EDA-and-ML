@@ -1,0 +1,1 @@
+Conducted extensive Market Basket Analysis using the Apriori algorithm to uncover product correlations and enhance cross-selling tactics. Achieved a profit increase of up to 28%. Created and integrated a recommendation system leveraging association rules, leading to boosted sales and tailored customer interactions.
